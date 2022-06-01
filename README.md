@@ -1,5 +1,5 @@
 # Ch6SavingsAccount
-This project is very similar in design to the Mouse2 class and Mouse2Driver example in the book.  
+This project is very similar in design to the Mouse2 class and Mouse2Driver example in the book (Introduction to Programming with Java A Problem Solving Approach Second Edition by John Dean and Raymond Dean).  
 
 Remember the project in Ch 4 about calculating the value of an account as it grows, which was enhanced in Ch 5 to look better? We’ll do the same work here but using OOP methodology.  
 
